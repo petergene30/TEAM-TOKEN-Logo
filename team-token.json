@@ -13,8 +13,8 @@
             "name": "TEAM token",
             "decimals": 8,
             "symbol": "TEAM",
-            "logoURI": "ipfs://QmRfLtruB4vrPbuCiKPU3J6Xq62FxLmNjaNmsHeH3AMfPX"
+            "logoURI": "https://raw.githubusercontent.com/TEAMexchangeAdmin/TEAM-TOKEN-Logo/master/TE_SMALL.png"
         }
     ],
-    "logoURI": "ipfs://QmRfLtruB4vrPbuCiKPU3J6Xq62FxLmNjaNmsHeH3AMfPX"
+    "logoURI": "https://raw.githubusercontent.com/TEAMexchangeAdmin/TEAM-TOKEN-Logo/master/TE_SMALL.png"
     }
