@@ -1,0 +1,20 @@
+{
+    "name": "TEAM token",
+    "timestamp": "2021-06-07T09:45:56.659Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": "0x84f93cc4dc3ebe0e4f80de867916de26ad1ea002",
+            "name": "TEAM token",
+            "decimals": 8,
+            "symbol": "TEAM",
+            "logoURI": "ipfs://QmRfLtruB4vrPbuCiKPU3J6Xq62FxLmNjaNmsHeH3AMfPX"
+        }
+    ],
+    "logoURI": "ipfs://QmRfLtruB4vrPbuCiKPU3J6Xq62FxLmNjaNmsHeH3AMfPX"
+    }
